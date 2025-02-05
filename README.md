@@ -1,11 +1,6 @@
-# ubuntu_ransomware_demo
-(Educational Only) Python3 code to encrypt/decrypt a directory in ubuntu
 
 
-
-
-```markdown
-# Ransomware Educational Demo - UBUNTU VERSION ⚠️
+# Python3 Ransomware Educational Demo - UBUNTU VERSION ⚠️
 
 **❗ WARNING: THIS IS A HIGHLY EXPERIMENTAL DEMO FOR RESEARCH PURPOSES ONLY**  
 **By using this code, you acknowledge full responsibility for any consequences** 
