@@ -5,6 +5,8 @@
 **❗ WARNING: THIS IS A HIGHLY EXPERIMENTAL DEMO FOR RESEARCH PURPOSES ONLY**  
 **By using this code, you acknowledge full responsibility for any consequences** 
 
+The codes have been modified to include additional controls for verifying Linux directories and to display confirmation text when executing the Python 3 script.
+
 ---
 
 ## 🔍 Overview
